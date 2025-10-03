@@ -9,6 +9,7 @@ const config = {
     },
     googleCloud: {
         apiKey: process.env.GOOGLE_CLOUD_API_KEY,
+        projectId: process.env.GOOGLE_CLOUD_PROJECT_ID,
     }
 };
 
