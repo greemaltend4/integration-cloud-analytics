@@ -7,5 +7,5 @@ app.get('/', (req, res) => {
 });
 
 app.listen(PORT, () => {
-    console.log(`Serveur en cours d\u2019exécution sur le port ${PORT}`);
+    console.log(`Serveur en cours d'exécution sur le port ${PORT}`);
 });
